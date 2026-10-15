@@ -65,7 +65,9 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
   <img src="https://streak-stats.demolab.com/?user=JRoberson23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JRoberson23&theme=tokyo-night&hide_border=true&area=true" />
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JRoberson23&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Roberson" />
+</div>
 
 <br/>
 
@@ -90,8 +92,8 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 > E-commerce full-stack com carrinho, pagamento (Mercado Pago), cálculo de frete (Melhor Envio), painel admin, autenticação JWT e chatbot com IA.
 
 [![Demo](https://img.shields.io/badge/🌐_Ver_Demo-0EA5E9?style=for-the-badge)](https://roberson-store.vercel.app/)
-[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/colecionateca-api)
-[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/colecionateca-web)
+[![Código](https://img.shields.io/badge/📂_Ver_Código_BackEnd-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/colecionateca-api)
+[![Código](https://img.shields.io/badge/📂_Ver_Código_FrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/colecionateca-web)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -158,7 +160,7 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 ## 📚 Aprendizado Contínuo — Trilha Java + IA
 
 ```text
-✅ 1. Bootcamp Itaú — Java + IA
+🔵 1. Bootcamp Itaú — Java + IA
 ⬇️
 🔵 2. Java Programmer I
 ⬇️
@@ -218,7 +220,7 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511950768793)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://roberson-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberson-junior/)
 
 **📱 +55 (11) 95076-8793** · **📧 jrobersondev@outlook.com**
 
