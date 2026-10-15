@@ -65,10 +65,6 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
   <img src="https://streak-stats.demolab.com/?user=JRoberson23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JRoberson23&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Roberson" />
-</div>
-
 <br/>
 
 ## 🐍 Minhas Contribuições em Ação
