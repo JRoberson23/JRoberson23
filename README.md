@@ -66,7 +66,7 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JRoberson23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JRoberson23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
 </div>
 
 <br/>
@@ -76,8 +76,12 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 <!-- ============================================= -->
 ## 🚀 Projetos em Destaque
 
-### 🛒 [Roberson Store — E-commerce Completo](https://github.com/JRoberson23)
+### 🛒 Roberson Store — E-commerce Completo
 > E-commerce full-stack com carrinho, pagamento (Mercado Pago), cálculo de frete (Melhor Envio), painel admin, autenticação JWT e chatbot com IA.
+
+[![Demo](https://img.shields.io/badge/🌐_Ver_Demo-0EA5E9?style=for-the-badge)](https://roberson-store.vercel.app/)
+[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/colecionateca-api)
+[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/colecionateca-web)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -86,8 +90,11 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 
 ---
 
-### 🖨️ [NandoLab3D — Sistema Full Stack](https://github.com/JRoberson23)
+### 🖨️ NandoLab3D — Sistema Full Stack
 > Sistema de gerenciamento de impressões 3D com dashboard administrativo, autenticação e relatórios em tempo real.
+
+[![Demo](https://img.shields.io/badge/🌐_Ver_Demo-0EA5E9?style=for-the-badge)](https://nandolab3d.onrender.com/)
+[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/nandoLab3D)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -95,24 +102,32 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 
 ---
 
-### 🤖 [Bot de Vendas WhatsApp](https://github.com/JRoberson23/bot-vendas-whatsapp)
+### 🤖 Bot de Vendas WhatsApp
 > Automação de vendas para WhatsApp com fluxo conversacional e integração com IA.
+
+[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/bot-vendas-whatsapp)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 🐾 [PetShop Tia Se](https://roberson-dev.vercel.app/)
+### 🐾 PetShop Tia Se
 > Site institucional responsivo com SEO, Open Graph e CI/CD.
+
+[![Demo](https://img.shields.io/badge/🌐_Ver_Demo-0EA5E9?style=for-the-badge)](https://petshop-tiase.vercel.app/)
+[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/petshop-tiase)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-### 🚗 [Carlos Funilaria](https://roberson-dev.vercel.app/)
+### 🚗 Carlos Funilaria
 > Site institucional com galeria antes/depois e deploy em AWS (S3 + CloudFront).
+
+[![Demo](https://img.shields.io/badge/🌐_Ver_Demo-0EA5E9?style=for-the-badge)](https://carlos-funilaria.vercel.app/)
+[![Código](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/JRoberson23/carlos-funilaria)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
