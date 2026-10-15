@@ -39,13 +39,13 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 <div align="center">
 
 ### Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,cs,php,sql,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,cs,php,mysql,postgres" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind" />
 
 ### Cloud, DevOps & Ferramentas
-<img src="https://skillicons.dev/icons?i=aws,docker,n8n,git,github,githubactions,vercel,linux,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel,linux,vscode,visualstudio" />
 
 </div>
 
@@ -65,13 +65,9 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
   <img src="https://streak-stats.demolab.com/?user=JRoberson23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 📈 Gráfico de Atividade
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JRoberson23&theme=tokyo-night&hide_border=true&area=true" />
 
-<div align="center">
-  <a href="https://github.com/JRoberson23">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JRoberson23&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Roberson" />
-  </a>
-</div>
+<br/>
 
 ## 🐍 Minhas Contribuições em Ação
 
@@ -204,7 +200,11 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 ## 💭 Reflexão do Dia
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+> *"Aqueles que podem imaginar qualquer coisa podem criar o impossível."*
+>
+> — **Alan Turing** 🧠
+
 </div>
 
 <br/>
@@ -216,10 +216,11 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 
 <div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511950768793)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://roberson-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberson-junior/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRoberson23)
-[![Certificações](https://img.shields.io/badge/Certificações-FFD700?style=for-the-badge&logo=credly&logoColor=black)](https://jroberson23.github.io/portfolio-certificacoes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+
+**📱 +55 (11) 95076-8793** · **📧 jrobersondev@outlook.com**
 
 </div>
 
