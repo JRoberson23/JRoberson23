@@ -27,7 +27,6 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 - 🧩 Construo aplicações completas — do banco de dados ao deploy
 - 📜 Mais de **40 certificações** e **500+ horas** de estudo contínuo
 - 🚀 Sempre em busca de aprender algo novo e aplicar em projetos reais
-- 💬 Pergunte-me sobre: **Node.js, Python, Java, Next.js, React, AWS, MySQL**
 
 <br/>
 
