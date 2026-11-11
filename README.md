@@ -56,11 +56,6 @@ Olá! Sou **Roberson Oliveira**, desenvolvedor **Full Stack** e estudante do úl
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRoberson23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRoberson23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=JRoberson23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
